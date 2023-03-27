@@ -12,8 +12,8 @@ def usage():
     return """
         Use "" around link to avoid bad things :>
         adp.py "Link" [quality]
-        python apd.py "https://www.aparat.com/v/d13rh3"
-        python apd.py "https://www.aparat.com/v/d13rh3" -q 480
+        python apd.py https://www.aparat.com/playlist/144510"
+        python apd.py "https://www.aparat.com/playlist/144510" -q 720
 
         The default quality is 480.
     """
